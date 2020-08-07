@@ -3,5 +3,6 @@
 * [第一章 我出生了](README.md)
 * [入职重庆电务段](lets-go-to-chongqing.md)
 * [一封表白信](a-stupid-email.md)
+* [一封感谢信](yi-feng-gan-xie-xin.md)
 * [大家都是人才](da-jia-du-shi-ren-cai.md)
 
