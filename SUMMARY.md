@@ -7,4 +7,5 @@
 * [大家都是人才](da-jia-du-shi-ren-cai.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [曾宇欣](ren-wu-fen-xi/ceng-yu-xin.md)
+  * [黄钰翔](ren-wu-fen-xi/huang-yu-xiang.md)
 
