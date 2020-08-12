@@ -5,4 +5,5 @@
 * [一封表白信](a-stupid-email.md)
 * [一封感谢信](yi-feng-gan-xie-xin.md)
 * [大家都是人才](da-jia-du-shi-ren-cai.md)
+* [人物分析](ren-wu-fen-xi.md)
 
