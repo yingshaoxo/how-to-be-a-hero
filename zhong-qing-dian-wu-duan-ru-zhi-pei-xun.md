@@ -52,3 +52,9 @@
 
 里面讲到不能对女生过于热情，在第一次热聊之后，应该放缓，并时不时地主动约出来看电影。如果对方拒绝，换下一个女性。
 
+### 学习就是我的力量
+
+The ability of learning is my power.
+
+I learn everything. Especially, for now, I'm engaged in learning how to be good at social.
+
