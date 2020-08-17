@@ -52,9 +52,19 @@
 
 里面讲到不能对女生过于热情，在第一次热聊之后，应该放缓，并时不时地主动约出来看电影。如果对方拒绝，换下一个女性。
 
+出租车司机讲得最靠谱的事情是： 作为一个男人，需要让女人感到成熟、稳重、靠谱。
+
+这样女人才会放心把她自己交给你。
+
 ### 学习就是我的力量
 
 The ability of learning is my power.
 
 I learn everything. Especially, for now, I'm engaged in learning how to be good at social.
+
+### 聪明的女性喜欢什么样的男人
+
+* 有钱
+* 有智慧
+* 成熟、稳重、靠谱
 
