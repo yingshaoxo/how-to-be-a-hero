@@ -80,5 +80,7 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 
 谁能想到她记了我这么多年。
 
-在参加工作的时候，竟然能从名字和头像认出我是她小学一年级的同学。
+在参加工作的时候，在工作群组里，竟然能从名字和头像认出我是她小学一年级的同学。
+
+而我也比较搞笑，直接在工作账号上使用真人头像和真人名字。
 
