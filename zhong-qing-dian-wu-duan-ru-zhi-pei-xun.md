@@ -74,3 +74,11 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 * 有智慧
 * 成熟、稳重、靠谱
 
+## 我与曾宇欣
+
+我觉得这就是缘分。
+
+谁能想到她记了我这么多年。
+
+在参加工作的时候，竟然能从名字和头像认出我是她小学一年级的同学。
+
