@@ -84,3 +84,5 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 
 而我也比较搞笑，直接在工作账号上使用真人头像和真人名字。
 
+我们依然保持着些许的童心，我们依然保持着对未知的好奇、对知识的渴望。
+
