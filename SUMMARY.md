@@ -11,4 +11,5 @@
   * [曾宇欣](ren-wu-fen-xi/ceng-yu-xin.md)
   * [黄钰翔](ren-wu-fen-xi/huang-yu-xiang.md)
   * [曾科浩](ren-wu-fen-xi/ceng-ke-hao.md)
+  * [夏伦招](ren-wu-fen-xi/xia-lun-zhao.md)
 
