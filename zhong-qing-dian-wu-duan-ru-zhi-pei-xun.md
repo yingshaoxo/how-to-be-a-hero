@@ -122,3 +122,9 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 
 > 你准备再多都没得用，我对你没兴趣也没意思，求求你不要给我发信息了，你再发我就拉黑了。
 
+### 人是善于伪装的动物
+
+从上面两段回复，我们能大概知道，前一个是经过伪装的思想。
+
+后一个才是她的真实意识形态。\(很俗，说实话。我不喜欢。\)
+
