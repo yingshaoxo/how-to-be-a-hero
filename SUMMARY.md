@@ -14,4 +14,5 @@
   * [曾科浩](ren-wu-fen-xi/ceng-ke-hao.md)
   * [夏伦招](ren-wu-fen-xi/xia-lun-zhao.md)
   * [路宗儒](ren-wu-fen-xi/lu-zong-ru.md)
+* [家居环境构建指南](environment-construction.md)
 
