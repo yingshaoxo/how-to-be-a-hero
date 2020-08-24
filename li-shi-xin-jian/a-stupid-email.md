@@ -105,13 +105,13 @@
 
 这不，才刚进工作群不久，就有一个女生因为我的言论太奇特，加上了我的微信，还和我约好了一起坐火车去报道:
 
-![](.gitbook/assets/66a8262181455c5461e24f60dd992dd8a4508aa75df316580be816e5bd4a543c.png)
+![](../.gitbook/assets/66a8262181455c5461e24f60dd992dd8a4508aa75df316580be816e5bd4a543c.png)
 
-![](.gitbook/assets/7bc2e02867ecedff52168c3ee67eb51a4df2ca1498a4ac1c3ba662509d3ed5e8.png)
+![](../.gitbook/assets/7bc2e02867ecedff52168c3ee67eb51a4df2ca1498a4ac1c3ba662509d3ed5e8.png)
 
-![](.gitbook/assets/f3f963f976a48c8f4aafeb716db9ca7592119f330006021998b4ebb10e8c03b0.png)
+![](../.gitbook/assets/f3f963f976a48c8f4aafeb716db9ca7592119f330006021998b4ebb10e8c03b0.png)
 
-![](.gitbook/assets/9080d7470090b15311d48dda05d11d97e02510b3688f86d152322be7e2fa83ae.png)
+![](../.gitbook/assets/9080d7470090b15311d48dda05d11d97e02510b3688f86d152322be7e2fa83ae.png)
 
 ### 6. The End, 这封信对你我的意义
 
@@ -129,7 +129,7 @@
 
  
 
-![](.gitbook/assets/6b2d197192fb1b523bedae62ab387075b861ed45e23ce58c4e8c24571672b211.png)
+![](../.gitbook/assets/6b2d197192fb1b523bedae62ab387075b861ed45e23ce58c4e8c24571672b211.png)
 
 #### 个人感受
 
