@@ -154,5 +154,11 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 
 有图为证：
 
+![](.gitbook/assets/f821f6745a0542bfcea9443a19e0ae29a041866e94366dbee0860d1c15c9348c.png)
 
+我其实已经受够了，要是谈恋爱需要互相这样监视对方。还不如不谈，那多自由！
+
+我的信条是，如果对方要离开你，怎么都会离开你，你的监视不会有任何的作用。
+
+对方离开你，只是因为你对她没有吸引力。
 
