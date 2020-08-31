@@ -146,5 +146,13 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 
 感觉还可以，单独聊了半个小时。
 
+## 人生中最黑暗的时刻
+
+说出来你都不会相信，但这确实在真实世界发生。
+
+我们生活在一个充满监控的世界。不仅有统治者监控被奴役的人民，也有人与人之间发生的相互监控。
+
+有图为证：
+
 
 
