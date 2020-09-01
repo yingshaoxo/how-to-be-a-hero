@@ -18,5 +18,6 @@
   * [8月的信件](li-shi-xin-jian/8-yue-de-xin-jian.md)
 * [杂文集](za-wen-ji/README.md)
   * [大家都是人才](za-wen-ji/da-jia-du-shi-ren-cai.md)
+  * [约会的三地点](za-wen-ji/yue-hui-de-san-di-dian.md)
 * [家居环境构建指南](environment-construction.md)
 
