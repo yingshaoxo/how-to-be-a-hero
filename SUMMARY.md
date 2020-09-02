@@ -16,6 +16,7 @@
   * [一封表白信](li-shi-xin-jian/a-stupid-email.md)
   * [一封感谢信](li-shi-xin-jian/yi-feng-gan-xie-xin.md)
   * [8月的信件](li-shi-xin-jian/8-yue-de-xin-jian.md)
+  * [9月的信件](li-shi-xin-jian/9-yue-de-xin-jian.md)
 * [杂文集](za-wen-ji/README.md)
   * [大家都是人才](za-wen-ji/da-jia-du-shi-ren-cai.md)
   * [约会的三地点](za-wen-ji/yue-hui-de-san-di-dian.md)
