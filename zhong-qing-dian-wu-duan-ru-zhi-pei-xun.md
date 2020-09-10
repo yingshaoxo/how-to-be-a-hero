@@ -190,3 +190,8 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 >
 > 和平恋爱，和平分手
 
+## 新经验
+
+* 朋友关系是最轻松愉快的，想和就和，想分就分，基本上不需要负责任。
+* 有经济基础的“谈感情”才是厚实并且可持续的。\(比如你可以带对方到处玩、随便买东西\)
+
