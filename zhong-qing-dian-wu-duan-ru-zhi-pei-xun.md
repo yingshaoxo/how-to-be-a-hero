@@ -205,3 +205,7 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 
 如果说有，那就是，“实作”实际上是考验个人与老师的关系，看你作为一个新人能否和老员工打好关系。
 
+## 目前我对该职业的认知
+
+我们不是生产者，而是使用者、维护者\(维护与维修的区别在于，我们只修理小故障、小问题\)。
+
