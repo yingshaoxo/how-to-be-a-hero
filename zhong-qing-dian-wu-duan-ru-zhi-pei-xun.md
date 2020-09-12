@@ -207,5 +207,5 @@ I learn everything. Especially, for now, I'm engaged in learning how to be good 
 
 ## 目前我对该职业的认知
 
-我们不是生产者，而是使用者、维护者\(维护与维修的区别在于，我们只修理小故障、小问题\)。
+我们不是生产者，而是使用者、维护者\(维护与维修的区别在于，维护只负责修理小故障、小问题\)。
 
