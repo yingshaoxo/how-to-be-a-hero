@@ -3,6 +3,7 @@
 * [第一章 我出生了](README.md)
 * [进入重庆电务段](lets-go-to-chongqing.md)
 * [重庆电务段入职培训](zhong-qing-dian-wu-duan-ru-zhi-pei-xun.md)
+* [来吧，九龙坡通信车间綦江联合通信工区](lai-ba-jiu-long-po-tong-xin-che-jian-qi-jiang-lian-he-tong-xin-gong-qu.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
   * [胡英杰](ren-wu-fen-xi/hu-ying-jie.md)
