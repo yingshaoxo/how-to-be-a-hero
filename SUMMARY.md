@@ -7,6 +7,7 @@
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
   * [刘露衫](ren-wu-fen-xi/liu-lu-shan.md)
+  * [代雷](ren-wu-fen-xi/dai-lei.md)
   * [黄健](ren-wu-fen-xi/huang-jian.md)
   * [胡英杰](ren-wu-fen-xi/hu-ying-jie.md)
   * [曾宇欣](ren-wu-fen-xi/ceng-yu-xin.md)
