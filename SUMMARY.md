@@ -6,6 +6,7 @@
 * [来吧，九龙坡通信车间綦江联合通信工区](lai-ba-jiu-long-po-tong-xin-che-jian-qi-jiang-lian-he-tong-xin-gong-qu.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
+  * [李健康](ren-wu-fen-xi/li-jian-kang.md)
   * [刘露衫](ren-wu-fen-xi/liu-lu-shan.md)
   * [代雷](ren-wu-fen-xi/dai-lei.md)
   * [黄健](ren-wu-fen-xi/huang-jian.md)
