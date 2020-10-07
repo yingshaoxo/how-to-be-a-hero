@@ -32,6 +32,6 @@
   * [约会的三地点](za-wen-ji/yue-hui-de-san-di-dian.md)
   * [论优秀的学校教育](za-wen-ji/lun-you-xiu-de-xue-xiao-jiao-yu.md)
   * [你要如何才能成功](za-wen-ji/ni-yao-ru-he-cai-neng-cheng-gong.md)
-  * [人生第一次实习](za-wen-ji/ren-sheng-di-yi-ci-shi-xi.md)
+  * [人生第一次参加工作](za-wen-ji/ren-sheng-di-yi-ci-shi-xi.md)
 * [家居环境构建指南](environment-construction.md)
 
