@@ -8,6 +8,7 @@
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
   * [李健康](ren-wu-fen-xi/li-jian-kang.md)
   * [刘露衫](ren-wu-fen-xi/liu-lu-shan.md)
+  * [黄印](ren-wu-fen-xi/huang-yin.md)
   * [代雷](ren-wu-fen-xi/dai-lei.md)
   * [赵攀](ren-wu-fen-xi/zhao-pan.md)
   * [黄健](ren-wu-fen-xi/huang-jian.md)
