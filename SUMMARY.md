@@ -39,6 +39,7 @@
     * [情景再现 2](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/qing-jing-zai-xian-2.md)
     * [今天是个好日子](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/jin-tian-shi-ge-hao-ri-zi.md)
     * [Bad Mood](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/bad-mood.md)
+    * [你笑起来真好看](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/ni-xiao-qi-lai-zhen-hao-kan.md)
 * [杂文集](za-wen-ji/README.md)
   * [大家都是人才](za-wen-ji/da-jia-du-shi-ren-cai.md)
   * [约会的三地点](za-wen-ji/yue-hui-de-san-di-dian.md)
