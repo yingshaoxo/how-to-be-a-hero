@@ -1,6 +1,6 @@
 # 情景再现 3: 令人崩溃的饭局
 
-Send scheduled for Tue, Dec 1, 6:21 AM
+Send scheduled for Mon, Nov 30, 11:59 PM
 
 
 

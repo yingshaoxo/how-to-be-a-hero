@@ -41,6 +41,7 @@
     * [Bad Mood](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/bad-mood.md)
     * [你笑起来真好看](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/ni-xiao-qi-lai-zhen-hao-kan.md)
     * [情景再现 3: 令人崩溃的饭局](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/qing-jing-zai-xian-3-ling-ren-beng-kui-de-fan-ju.md)
+    * [得不到的最珍贵](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/de-bu-dao-de-zui-zhen-gui.md)
 * [杂文集](za-wen-ji/README.md)
   * [大家都是人才](za-wen-ji/da-jia-du-shi-ren-cai.md)
   * [约会的三地点](za-wen-ji/yue-hui-de-san-di-dian.md)
