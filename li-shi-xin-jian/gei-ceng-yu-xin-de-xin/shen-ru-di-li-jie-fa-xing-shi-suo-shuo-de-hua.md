@@ -42,5 +42,7 @@ Send scheduled for Tue, Dec 1, 11:39 PM
 
 
 
-This is our story. I just couldn't help myself to write it down.
+This is where our story begins. 
+
+\(I just couldn't help myself to write it down.\)
 
