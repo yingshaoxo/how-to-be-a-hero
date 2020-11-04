@@ -48,3 +48,17 @@
 
 第一次拒绝是在演戏，为了给我降温。后面的冷淡是心理纠结，在选我与不选我之间摇摆。
 
+## 终了
+
+以后发达了再去找她。
+
+她比较适合当老婆。
+
+## Wechat History
+
+![](../.gitbook/assets/1.jpeg)
+
+![](../.gitbook/assets/2.jpeg)
+
+![](../.gitbook/assets/3.jpeg)
+
