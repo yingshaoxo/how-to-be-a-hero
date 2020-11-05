@@ -32,5 +32,5 @@ Send scheduled for Sat, Dec 5, 12:49 AM
 
 
 
-In the end, thank you for teaching me a good lesson: God won't punish those people who positive, but those people who negative. Best wishes to you!
+In the end, thank you for teaching me a good lesson: God won't punish those people who positive, but those people who negative. Best wishes to you, my dear xiaozeng!
 
