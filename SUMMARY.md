@@ -60,4 +60,5 @@
   * [你要如何才能成功](za-wen-ji/ni-yao-ru-he-cai-neng-cheng-gong.md)
   * [人生第一次参加工作](za-wen-ji/ren-sheng-di-yi-ci-shi-xi.md)
 * [家居环境构建指南](environment-construction.md)
+* [I have super power](i-have-super-power.md)
 
