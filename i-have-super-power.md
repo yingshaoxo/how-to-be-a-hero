@@ -28,3 +28,11 @@
 
 在时不时有团团白色云雾出现的天空。小孩可以左右移动，天空中可能会出现飞机、小鸟、UFO。小孩需要躲过这些障碍，才能生存。不然撞上就死亡。
 
+## 产品技术
+
+### I can fly
+
+物体碰撞: `CapsuleCollider2D` or `PolygonCollider2D`
+
+人物移动: `AreaEffector2D_Drag` or `AreaEffector2D_ForceMagnitude`
+
