@@ -53,6 +53,8 @@
     * [Good Morning](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/good-morning.md)
     * [情景再现 4: 保持步调](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/qing-jing-zai-xian-4-bao-chi-bu-tiao.md)
     * [这是最后一封信](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/zhe-shi-zui-hou-yi-feng-xin.md)
+    * [开始感到害怕了](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/kai-shi-gan-dao-hai-pa-le.md)
+    * [一封令人讨厌的信](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/yi-feng-ling-ren-tao-yan-de-xin.md)
 * [杂文集](za-wen-ji/README.md)
   * [大家都是人才](za-wen-ji/da-jia-du-shi-ren-cai.md)
   * [约会的三地点](za-wen-ji/yue-hui-de-san-di-dian.md)
