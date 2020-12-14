@@ -8,6 +8,8 @@
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
   * [胡英杰](ren-wu-fen-xi/hu-ying-jie.md)
+  * [童年](ren-wu-fen-xi/tong-nian/README.md)
+    * [胡勇](ren-wu-fen-xi/tong-nian/hu-yong.md)
   * [南京铁道职业技术学院](ren-wu-fen-xi/nan-jing-tie-dao-zhi-ye-ji-shu-xue-yuan/README.md)
     * [甘艳](ren-wu-fen-xi/nan-jing-tie-dao-zhi-ye-ji-shu-xue-yuan/gan-yan.md)
   * [重庆电务段](ren-wu-fen-xi/zhong-qing-dian-wu-duan/README.md)
