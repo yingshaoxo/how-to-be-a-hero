@@ -323,7 +323,7 @@ Here is how you do it, for example:
 
 Sometimes, you can even try more solutions, like trying to solve math problems without eating until you die, trying to build software without eating until you die.
 
-Trust me, by doing this kind of self-killing activity, you'll be more and more storing from inside.
+Trust me, by doing this kind of self-killing activity, you'll be more and more strong from inside.
 
 Yes, you can even try to kill yourself by doing body exercise, in this case, you would also get strength from outside, I mean, your body will be stronger and stronger than it was before.
 
