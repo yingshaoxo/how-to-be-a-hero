@@ -309,3 +309,23 @@
 
 时机一到，就请长假或者辞职，去找工作。\(这里的时机指的是，上面的任务完成。大环境如疫情结束。\)
 
+## 如何从自杀中获得动力
+
+经过观察，我们发现很多的自杀事件，到了一定的进度，当事人就不想自杀了。但是由于物理条件限制，他们无法再回头，只能死去。
+
+但如果我们换一个角度，尝试一种新方法，不仅可以让我们有更大的自由选择是否存活，还可以让我们从自杀事件中获得新的动力。
+
+Here is how you do it, for example: 
+
+1. Take a breath. 
+2. Hold on and don't breathe, stay in this state as long as you can. 
+3. If you have taken your mind to die, you should be able to die. But if you didn't make up your mind, you'll finally get another breath of fresh air.
+
+Sometimes, you can even try more solutions, like trying to solve math problems without eating until you die, trying to build software without eating until you die.
+
+Trust me, by doing this kind of self-killing activity, you'll be more and more storing from inside.
+
+Yes, you can even try to kill yourself by doing body exercise, in this case, you would also get strength from outside, I mean, your body will be stronger and stronger than it was before.
+
+用中文来讲，就是你可以尝试通过憋气来自杀，这样，你随时可以反悔，并继续存活下去。
+
