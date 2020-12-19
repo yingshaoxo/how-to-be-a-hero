@@ -58,7 +58,7 @@
     * [这是最后一封信](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/zhe-shi-zui-hou-yi-feng-xin.md)
     * [开始感到害怕了](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/kai-shi-gan-dao-hai-pa-le.md)
     * [一封令人讨厌的信](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/yi-feng-ling-ren-tao-yan-de-xin.md)
-    * [前途未卜\(Not Sent\)](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/qian-tu-wei-bu.md)
+    * [前途未卜](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/qian-tu-wei-bu.md)
     * [自主的人生才是有意义的](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/zi-zhu-de-ren-sheng-cai-shi-you-yi-yi-de.md)
 * [杂文集](za-wen-ji/README.md)
   * [大家都是人才](za-wen-ji/da-jia-du-shi-ren-cai.md)
