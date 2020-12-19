@@ -399,7 +399,7 @@ Yes, you can even try to kill yourself by doing body exercise, in this case, you
 
 So, kids, put on your smile, let's see if you can make it or not with a positive attitude and actions.
 
-## 2020年12月8号纪实回忆录
+## 2020年12月18号纪实回忆录
 
 这一天是充满激情的一天。我和甘艳老师两个人都思考了好多东西。关于未来，关于前途。
 
