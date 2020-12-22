@@ -61,6 +61,7 @@
     * [前途未卜](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/qian-tu-wei-bu.md)
     * [自主的人生才是有意义的](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/zi-zhu-de-ren-sheng-cai-shi-you-yi-yi-de.md)
     * [前途是个什么东西](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/qian-tu-shi-ge-shen-me-dong-xi.md)
+    * [Merry Christmas in Advance](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/merry-christmas-in-advance.md)
 * [杂文集](za-wen-ji/README.md)
   * [大家都是人才](za-wen-ji/da-jia-du-shi-ren-cai.md)
   * [约会的三地点](za-wen-ji/yue-hui-de-san-di-dian.md)
