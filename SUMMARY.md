@@ -64,6 +64,8 @@
     * [Merry Christmas in Advance](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/merry-christmas-in-advance.md)
     * [The stupid cat](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/the-stupid-cat.md)
 * [杂文集](za-wen-ji/README.md)
+  * [简书](za-wen-ji/jian-shu/README.md)
+    * [痔疮割除记事](za-wen-ji/jian-shu/zhi-chuang-ge-chu-ji-shi.md)
   * [大家都是人才](za-wen-ji/da-jia-du-shi-ren-cai.md)
   * [约会的三地点](za-wen-ji/yue-hui-de-san-di-dian.md)
   * [论优秀的学校教育](za-wen-ji/lun-you-xiu-de-xue-xiao-jiao-yu.md)
