@@ -1,6 +1,6 @@
-# 前途未卜\(Not Sent\)
+# 前途未卜
 
-Send scheduled for Sat, Dec, 1:49 AM
+Send scheduled for Sat, Dec, 6:55 PM
 
 
 
