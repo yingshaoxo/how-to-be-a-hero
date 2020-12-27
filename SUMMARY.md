@@ -65,6 +65,7 @@
     * [The stupid cat](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/the-stupid-cat.md)
 * [杂文集](za-wen-ji/README.md)
   * [简书](za-wen-ji/jian-shu/README.md)
+    * [Kivy 简明教程](za-wen-ji/jian-shu/kivy-jian-ming-jiao-cheng.md)
     * [痔疮割除记事](za-wen-ji/jian-shu/zhi-chuang-ge-chu-ji-shi.md)
     * [大一新生生存指南](za-wen-ji/jian-shu/da-yi-xin-sheng-sheng-cun-zhi-nan.md)
     * [不忘初心](za-wen-ji/jian-shu/bu-wang-chu-xin.md)
