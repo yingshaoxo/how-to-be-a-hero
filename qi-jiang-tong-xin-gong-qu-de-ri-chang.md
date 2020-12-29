@@ -543,3 +543,9 @@ So, kids, put on your smile, let's see if you can make it or not with a positive
 >
 > 最终的想法是：我要开一家公司，招聘梦想家们来改变世界
 
+## 用医保余额购买护肤品
+
+我花了400元，买了一套护肤品，感觉很高大上，量也比较少。第一次用，感觉效果还不错。
+
+果然好看是保养出来的。
+
