@@ -553,3 +553,11 @@ So, kids, put on your smile, let's see if you can make it or not with a positive
 
 果然好看是保养出来的。
 
+## 来自新年的晴天霹雳
+
+![](.gitbook/assets/pic0.jpg)
+
+![](.gitbook/assets/pic1.png)
+
+![](.gitbook/assets/pic2.png)
+
