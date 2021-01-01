@@ -589,3 +589,11 @@ So, kids, put on your smile, let's see if you can make it or not with a positive
 
 把我拉黑了
 
+## 昨天到底发生了什么，我的新年为何如此纠结
+
+根据我的臆想，或者说推测。小曾根本没有男朋友，如果说有，那就是我。
+
+![](.gitbook/assets/2021-1-2_6-7-54.jpeg)
+
+我只是觉得好烦，在写完了一篇文章《小曾与我》之后，便继续写了《Review in 2020 and Plans for 2021》
+

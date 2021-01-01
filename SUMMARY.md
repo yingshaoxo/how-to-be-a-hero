@@ -85,6 +85,7 @@
   * [你要如何才能成功](za-wen-ji/ni-yao-ru-he-cai-neng-cheng-gong.md)
   * [人生第一次参加工作](za-wen-ji/ren-sheng-di-yi-ci-shi-xi.md)
   * [由綦江生活、三江站改、标准化建设、工长的优秀领导管理方式，所引发的经验总结和心得体会](za-wen-ji/you-qi-jiang-sheng-huo-san-jiang-zhan-gai-biao-zhun-hua-jian-she-gong-chang-de-you-xiu-ling-dao-guan.md)
+  * [我与小曾](za-wen-ji/wo-yu-xiao-ceng.md)
 * [家居环境构建指南](environment-construction.md)
 * [I have super power](i-have-super-power.md)
 
