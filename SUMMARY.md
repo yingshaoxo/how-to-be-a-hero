@@ -18,6 +18,7 @@
     * [刘露衫](ren-wu-fen-xi/zhong-qing-dian-wu-duan/liu-lu-shan.md)
     * [曾宇欣](ren-wu-fen-xi/zhong-qing-dian-wu-duan/ceng-yu-xin.md)
     * [代雷](ren-wu-fen-xi/zhong-qing-dian-wu-duan/dai-lei.md)
+    * [王文潇](ren-wu-fen-xi/zhong-qing-dian-wu-duan/wang-wen-xiao.md)
     * [邓智勇](ren-wu-fen-xi/zhong-qing-dian-wu-duan/deng-zhi-yong.md)
     * [赵攀](ren-wu-fen-xi/zhong-qing-dian-wu-duan/zhao-pan.md)
     * [黄健](ren-wu-fen-xi/zhong-qing-dian-wu-duan/huang-jian.md)
