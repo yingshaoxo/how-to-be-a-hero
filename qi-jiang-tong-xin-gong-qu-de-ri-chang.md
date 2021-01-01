@@ -561,3 +561,7 @@ So, kids, put on your smile, let's see if you can make it or not with a positive
 
 ![](.gitbook/assets/pic2.png)
 
+## 来自新年的晴天霹雳2
+
+![](.gitbook/assets/2021-1-1_18-2-22.jpeg)
+
