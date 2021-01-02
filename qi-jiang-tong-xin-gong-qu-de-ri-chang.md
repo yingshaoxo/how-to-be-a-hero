@@ -597,3 +597,15 @@ So, kids, put on your smile, let's see if you can make it or not with a positive
 
 我只是觉得好烦，在写完了一篇文章《小曾与我》之后，便继续写了《Review in 2020 and Plans for 2021》
 
+## 顿悟
+
+一睡醒，就想通了
+
+她真是个天才
+
+做的一切都是为别人着想
+
+前天那一套是励志计划
+
+昨天那一套是悲伤控制，不波及其他人
+
