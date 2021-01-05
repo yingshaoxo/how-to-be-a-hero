@@ -5,6 +5,7 @@
 * [重庆电务段入职培训](zhong-qing-dian-wu-duan-ru-zhi-pei-xun.md)
 * [来吧，九龙坡通信车间綦江联合通信工区](lai-ba-jiu-long-po-tong-xin-che-jian-qi-jiang-lian-he-tong-xin-gong-qu.md)
 * [綦江通信工区的日常](qi-jiang-tong-xin-gong-qu-de-ri-chang.md)
+* [定职考试的准备及完结](ding-zhi-kao-shi-de-zhun-bei-ji-wan-jie.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
   * [胡英杰](ren-wu-fen-xi/hu-ying-jie.md)
