@@ -94,5 +94,6 @@
     * [软件上](environment-construction/ge-ren-sheng-chan-li-de-huan-jing-gou-jian/ruan-jian-shang.md)
     * [硬件上](environment-construction/ge-ren-sheng-chan-li-de-huan-jing-gou-jian/ying-jian-shang.md)
     * [生活上](environment-construction/ge-ren-sheng-chan-li-de-huan-jing-gou-jian/sheng-huo-shang.md)
-* [I have super power](i-have-super-power.md)
+* [I have super power](i-have-super-power/README.md)
+  * [游戏](i-have-super-power/you-xi.md)
 
