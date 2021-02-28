@@ -14,7 +14,3 @@ PopOS 或者 Manjaro
 
 目前我在用 Resilio Sync
 
-## 4. 任何需要每天手动做一遍的东西，都需要被自动化
-
-develop the `auto_everything` package.
-
