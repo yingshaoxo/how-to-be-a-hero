@@ -14,3 +14,20 @@ PopOS 或者 Manjaro
 
 目前我在用 Resilio Sync
 
+目录: 
+
+* VScode Remote Development Plugin
+* KDE connect
+
+## 4. 任何需要每天手动做一遍的东西，都需要被自动化
+
+develop the `auto_everything` package.
+
+## 5. 公网域名
+
+方便向外部世界传达一些什么东西
+
+* FRP: 用作内网穿透
+* Cloudflare + Nginx: 用作https -&gt; reverse proxy -&gt; http:port
+* Cloudreve: 自建网盘
+
