@@ -8,6 +8,7 @@
 * [定职考试的准备及完结](ding-zhi-kao-shi-de-zhun-bei-ji-wan-jie.md)
 * [考研上岸](kao-yan-shang-an.md)
 * [黔江通信工区的日常](qian-jiang-tong-xin-gong-qu-de-ri-chang.md)
+* [华港咨询有限公司](hua-gang-zi-xun-you-xian-gong-si.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
   * [胡英杰](ren-wu-fen-xi/hu-ying-jie.md)
