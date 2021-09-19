@@ -1,8 +1,8 @@
 # 软件上
 
-## 1. 笔记本上为Linux系统
+## 1. 笔记本上为Linux/Mac系统
 
-PopOS 或者 Manjaro
+PopOS 或者 Manjaro 或者 Mac
 
 ## 2. 台式机上为Windows 10 Server
 
