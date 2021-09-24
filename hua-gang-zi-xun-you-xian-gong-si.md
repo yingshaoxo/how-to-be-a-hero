@@ -122,3 +122,21 @@ PMO，流程设计，App前端，交易接口，React前端等。
 1. 自己的人生选择得自己做，别人都只看到你生活的一部分，终究不是全部，没办法替你做出最优选择 （就这儿来讲，我本来只想好好看看电影，被人引导到约吃饭这个地步了，可能有点过了
 2. 如果你发现你和一个女生聊天，你发送文字的数量和频率明显高于对方，对方一定是对你没有兴趣。如果你发现对方在收到好多条你的消息后故意不回复你的时候，对方已经在考虑要不要拉黑你了
 
+## The problem about this company
+
+The biggest problem with it is that it's not an English-based company.
+
+
+
+One thing I found is that I hated to see the Chinese need description.
+
+So I often do the development based on UI than the description.
+
+我讨厌去看那些中文软件需求描述。
+
+
+
+And the more Chinese typing I do, the more likely I'm losing competition on English-based software development.
+
+
+
