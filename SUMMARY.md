@@ -109,3 +109,5 @@
   * [碎片自传4: 初中1，听不懂的课](hui-yi-lu/sui-pian-zi-chuan-4-chu-zhong-1-ting-bu-dong-de-ke.md)
   * [碎片自传5: 初中2，娱乐至上](hui-yi-lu/sui-pian-zi-chuan-5-chu-zhong-2-yu-le-zhi-shang.md)
   * [碎片自传6: 初中3，进不完的办公室](hui-yi-lu/sui-pian-zi-chuan-6-chu-zhong-3-jin-bu-wan-de-ban-gong-shi.md)
+  * [碎片自传7: 初中4，活动](hui-yi-lu/sui-pian-zi-chuan-7-chu-zhong-4-huo-dong.md)
+  * [碎片自传8: 从初中到高中，I need to do something](hui-yi-lu/sui-pian-zi-chuan-8-cong-chu-zhong-dao-gao-zhongineed-to-do-something.md)
