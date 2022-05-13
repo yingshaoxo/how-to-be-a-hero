@@ -106,3 +106,6 @@
   * [碎片自传: 童年1](hui-yi-lu/sui-pian-zi-chuan-tong-nian-1.md)
   * [碎片自传: 童年2](hui-yi-lu/sui-pian-zi-chuan-tong-nian-2.md)
   * [碎片自传: 童年3, 傻子 的 性启蒙 与 人性的恶](hui-yi-lu/sui-pian-zi-chuan-tong-nian-3-sha-zi-de-xing-qi-meng-yu-ren-xing-de-e.md)
+  * [碎片自传4: 初中1，听不懂的课](hui-yi-lu/sui-pian-zi-chuan-4-chu-zhong-1-ting-bu-dong-de-ke.md)
+  * [碎片自传5: 初中2，娱乐至上](hui-yi-lu/sui-pian-zi-chuan-5-chu-zhong-2-yu-le-zhi-shang.md)
+  * [碎片自传6: 初中3，进不完的办公室](hui-yi-lu/sui-pian-zi-chuan-6-chu-zhong-3-jin-bu-wan-de-ban-gong-shi.md)
