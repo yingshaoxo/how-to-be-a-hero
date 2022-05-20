@@ -75,6 +75,7 @@
     * [The stupid cat](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/the-stupid-cat.md)
     * [今天又是开心的周末](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/jin-tian-you-shi-kai-xin-de-zhou-mo.md)
     * [来自新年的晴天霹雳](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/lai-zi-xin-nian-de-qing-tian-pi-li.md)
+  * [申贤美](li-shi-xin-jian/shen-xian-mei.md)
 * [杂文集](za-wen-ji/README.md)
   * [简书](za-wen-ji/jian-shu/README.md)
     * [Kivy 简明教程](za-wen-ji/jian-shu/kivy-jian-ming-jiao-cheng.md)
