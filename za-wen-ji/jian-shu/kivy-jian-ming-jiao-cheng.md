@@ -4,12 +4,14 @@
 
 首先，有两个网址你不得不看：
 
-1. [Kivy: Cross-platform Python Framework for NUI](https://links.jianshu.com/go?to=https%3A%2F%2Fkivy.org%2F%23home) 在官网逛逛，顺便看看最下面的代码，try to run it.
-2. [https://www.youtube.com/playlist?list=PLQVvvaa0QuDe\_l6XiJ40yGTEqIKugAdTy](https://links.jianshu.com/go?to=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy) sentdex大神的入门级教程。
+1. [Kivy: Cross-platform Python Framework for NUI](https://links.jianshu.com/go?to=https%3A%2F%2Fkivy.org%2F%23home)\
+   在官网逛逛，顺便看看最下面的代码，try to run it.
+2. [https://www.youtube.com/playlist?list=PLQVvvaa0QuDe\_l6XiJ40yGTEqIKugAdTy](https://links.jianshu.com/go?to=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLQVvvaa0QuDe\_l6XiJ40yGTEqIKugAdTy)\
+   sentdex大神的入门级教程。
 
 Kivy总体思想是：kv代码管界面，python代码管逻辑。
 
-然后重点来了， 我主要讲三件事：\(kv访问Python；Python访问kv；窗口\)。
+然后重点来了， 我主要讲三件事：(kv访问Python；Python访问kv；窗口)。
 
 ### 一阶段：
 
@@ -60,7 +62,7 @@ TestApp().run()
 
 **3. kv访问Python**
 
-在.kv文件或kv代码里，root只代表其上层被&lt;&gt;包裹住的类。如：
+在.kv文件或kv代码里，root只代表其上层被<>包裹住的类。如：
 
 ```python
 from kivy.app import App
@@ -192,7 +194,7 @@ TestApp().run()
 
 In fact, 你可以把`ScreenManager`看成一个很大的`widget`。
 
-但如果所有的数据操作\(`root.function`\)都在一个 `ScreenManager` class里做的话显然不科学。
+但如果所有的数据操作(`root.function`)都在一个 `ScreenManager` class里做的话显然不科学。
 
 所以我们最好把每个窗口都在Python里声明一个class，这样既可以有程序启动时的总操作，又可以有各个子窗口的分操作。看示例：
 
@@ -239,7 +241,7 @@ TestApp().run()
 
 **3. Python访问kv**
 
-直接用kv代码预先定义控件\(如按钮\)的行为有时不能满足我们的需求，于是我们可能需要临时改变按钮的行为：
+直接用kv代码预先定义控件(如按钮)的行为有时不能满足我们的需求，于是我们可能需要临时改变按钮的行为：
 
 ```python
 from kivy.app import App
@@ -311,11 +313,10 @@ TestApp().run()
 
 ### 五阶段：Show time!
 
-还想什么呢？赶紧动手写程序吧~
+还想什么呢？赶紧动手写程序吧\~
 
 For more information, you can go and see:
 
 [https://kivy.org/docs/api-kivy.uix.screenmanager.html](https://links.jianshu.com/go?to=https%3A%2F%2Fkivy.org%2Fdocs%2Fapi-kivy.uix.screenmanager.html)
 
 [https://github.com/yingshaoxo/kivy-chat](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2Fyingshaoxo%2Fkivy-chat)
-
