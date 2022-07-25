@@ -77,6 +77,7 @@
     * [来自新年的晴天霹雳](li-shi-xin-jian/gei-ceng-yu-xin-de-xin/lai-zi-xin-nian-de-qing-tian-pi-li.md)
   * [申贤美](li-shi-xin-jian/shen-xian-mei/README.md)
     * [妹子与我](li-shi-xin-jian/shen-xian-mei/mei-zi-yu-wo.md)
+    * [让我们发挥想象力](li-shi-xin-jian/shen-xian-mei/rang-wo-men-fa-hui-xiang-xiang-li.md)
 * [杂文集](za-wen-ji/README.md)
   * [简书](za-wen-ji/jian-shu/README.md)
     * [Kivy 简明教程](za-wen-ji/jian-shu/kivy-jian-ming-jiao-cheng.md)
