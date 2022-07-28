@@ -80,6 +80,7 @@
     * [Love Notes](li-shi-xin-jian/shen-xian-mei/love-notes/README.md)
       * [1. 初见](li-shi-xin-jian/shen-xian-mei/love-notes/1.-chu-jian.md)
       * [2. 饭局](li-shi-xin-jian/shen-xian-mei/love-notes/2.-fan-ju.md)
+      * [3. 早安](li-shi-xin-jian/shen-xian-mei/love-notes/3.-zao-an.md)
     * [妹子与我](li-shi-xin-jian/shen-xian-mei/mei-zi-yu-wo.md)
     * [让我们发挥想象力](li-shi-xin-jian/shen-xian-mei/rang-wo-men-fa-hui-xiang-xiang-li.md)
 * [杂文集](za-wen-ji/README.md)
