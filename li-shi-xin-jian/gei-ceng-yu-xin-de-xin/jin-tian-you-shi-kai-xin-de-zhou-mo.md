@@ -23,7 +23,7 @@ This is written on 2020 Dec 27, 11:16 PM\
 \
 我应该截个图的。忘了，但是，我有聊天记录为证：
 
-![](../../.gitbook/assets/screenshot\_20201227-224229\_skype.png)
+![](../../.gitbook/assets/Screenshot\_20201227-224229\_Skype.png)
 
 \
 \

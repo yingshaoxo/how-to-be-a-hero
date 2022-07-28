@@ -56,9 +56,8 @@
 
 ## Wechat History
 
-![](../../.gitbook/assets/1.jpeg)
+![](../../.gitbook/assets/1.JPEG)
 
-![](../../.gitbook/assets/2.jpeg)
+![](../../.gitbook/assets/2.JPEG)
 
-![](../../.gitbook/assets/3.jpeg)
-
+![](../../.gitbook/assets/3.JPEG)

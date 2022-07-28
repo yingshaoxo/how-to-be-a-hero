@@ -199,7 +199,7 @@
 
 3\. 下次遇到合适的女生，愉快地聊天后应该加个微信，免得陷入被动(或者错过好资源)。
 
-![](.gitbook/assets/compressed\_img\_20201205\_095002.jpg)
+![](.gitbook/assets/compressed\_IMG\_20201205\_095002.jpg)
 
 ## 第二次剪头发
 
@@ -209,7 +209,7 @@
 
 (发型师指，重庆北，凯韵花园酒店旁边的一个叫做“摩登造型”的小理发店的老板，真名 陈伟)
 
-![](.gitbook/assets/compressed\_hdimg\_85adcf249e6e6d5fc1956e21c25de0761607186248330.jpg)
+![](.gitbook/assets/compressed\_hdImg\_85adcf249e6e6d5fc1956e21c25de0761607186248330.jpg)
 
 ## 思考公用性做笔记的方法
 
@@ -573,7 +573,7 @@ So, kids, put on your smile, let's see if you can make it or not with a positive
 
 ## 来自新年的晴天霹雳2
 
-![](.gitbook/assets/2021-1-1\_18-2-22.jpeg)
+![](.gitbook/assets/2021-1-1\_18-2-22.JPEG)
 
 ## 来自新年的晴天霹雳+祝福
 
@@ -603,7 +603,7 @@ So, kids, put on your smile, let's see if you can make it or not with a positive
 
 根据我的臆想，或者说推测。小曾根本没有男朋友，如果说有，那就是我。
 
-![](.gitbook/assets/2021-1-2\_6-7-54.jpeg)
+![](.gitbook/assets/2021-1-2\_6-7-54.JPEG)
 
 我只是觉得好烦，在写完了一篇文章《小曾与我》之后，便继续写了《Review in 2020 and Plans for 2021》
 

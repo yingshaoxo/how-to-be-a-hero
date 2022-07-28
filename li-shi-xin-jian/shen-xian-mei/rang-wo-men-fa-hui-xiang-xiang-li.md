@@ -162,29 +162,65 @@ Ray Dalio 甚至还认识 Dalai Lama，这你相信吗？我反正信了。
 
 ### 在校
 
-<img src="../../.gitbook/assets/image (14).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="original">
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 ![](<../../.gitbook/assets/image (13).png>)
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 ### 参加工作，刚认识我
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 ### 工作几个月，认识我半年
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### 工作一年半，认识我一年半
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (4).png>)
+
+> 2022.7.24, in telegram:
+>
+> 对比了下，妹子在 “深圳大梅沙京基国际酒店”
+>
+> 然后，这张照片是有人帮拍的
+>
+> 从脚的颜色看，妹子应该是在这个夏天经常穿着拖鞋到处跑
+>
+> 但是头上有帽子，身体也裹得比较严丝合缝，可以防色狼
+>
+> 面容不算开心，也不算伤心，有一种平和
+>
+> 如果她现任男友天天住这个宾馆的话
+>
+> 我觉得这对她有好处，希望她幸福
+>
+> 要不然我在29号晚，也去这个酒店？花900块钱，没准还能见到她？
+
+> 2022.7.25, in telegram:
+>
+> 说实话，看了妹子的脚
+>
+> 挺心疼的
+>
+> 到哪儿都走路，才会引发筋脉曲张
+>
+> 要是我们有钱，就可以少走路，去哪儿都坐车
+
+> 2022.7.25, in telegram:
+>
+> 妹子手臂上怎么还是有针孔？
+>
+> 是不是得了什么不治之症？
+>
+> 故意不让我知道？
 
 ### 结论
 

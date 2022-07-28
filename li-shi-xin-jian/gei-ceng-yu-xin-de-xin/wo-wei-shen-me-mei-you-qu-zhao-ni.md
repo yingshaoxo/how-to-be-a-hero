@@ -16,7 +16,7 @@ Send scheduled for Tue, Dec 1, 5:55 PM
 
 觉得好就应该去追，不能害怕拒绝。
 
-他还说我的方法有点复古\(其实是过时\)，然后他还讲，这种方法有点书生气。他更偏向于使用社会的方法。
+他还说我的方法有点复古(其实是过时)，然后他还讲，这种方法有点书生气。他更偏向于使用社会的方法。
 
 我回答道：所谓社会的方法，无非就是这个不行，就换下一个。
 
@@ -24,15 +24,15 @@ Send scheduled for Tue, Dec 1, 5:55 PM
 
 这是剪完后的样子：
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](<../../.gitbook/assets/image (1).png>)
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](<../../.gitbook/assets/image (12).png>)
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](<../../.gitbook/assets/image (10).png>)
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](<../../.gitbook/assets/image (15).png>)
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](<../../.gitbook/assets/image (18).png>)
 
 
 
@@ -42,19 +42,17 @@ Send scheduled for Tue, Dec 1, 5:55 PM
 
 
 
-对了，这是没剪头发之前的样子\(还不算丑，因为之前做的发型\)：
+对了，这是没剪头发之前的样子(还不算丑，因为之前做的发型)：
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image.png)
 
 
 
 这是没剃胡子的样子:
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](<../../.gitbook/assets/image (8).png>)
 
 
 
 哈哈，不刮胡子真的丑多了。小曾，你成功的影响了我的审美！
-
-
 
