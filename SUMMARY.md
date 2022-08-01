@@ -9,6 +9,8 @@
 * [考研上岸](kao-yan-shang-an.md)
 * [黔江通信工区的日常](qian-jiang-tong-xin-gong-qu-de-ri-chang.md)
 * [华港咨询有限公司](hua-gang-zi-xun-you-xian-gong-si.md)
+* [Doo Group/Fin Points](doo-group-fin-points/README.md)
+  * [背景介绍](doo-group-fin-points/bei-jing-jie-shao.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [华港咨询有限公司](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/README.md)
     * [申贤美](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/shen-xian-mei.md)
