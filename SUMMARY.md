@@ -17,6 +17,8 @@
     * [杨庆昌](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/yang-qing-chang.md)
     * [唐辉](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/tang-hui.md)
     * [夏双喜](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/xia-shuang-xi.md)
+  * [Doo Group/Fin Points](ren-wu-fen-xi/doo-group-fin-points/README.md)
+    * [Johnny KhongWJ](ren-wu-fen-xi/doo-group-fin-points/johnny-khongwj.md)
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
   * [胡英杰](ren-wu-fen-xi/hu-ying-jie.md)
   * [童年](ren-wu-fen-xi/tong-nian/README.md)
