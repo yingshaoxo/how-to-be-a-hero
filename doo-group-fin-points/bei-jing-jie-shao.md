@@ -10,7 +10,7 @@ Fin Points 是 Doo Group 的下属公司。
 
 
 
-然后 Doo Group/Fin Points 的核心部门在香港。高层都是中国人。
+然后 Doo Group/Fin Points 的核心部门在香港。高层都是中国人。(底层也是中国人，你感觉他们在国外，实际上为了节约成本，还是在国内，深圳。)
 
 其中一个分公司，HexTrust，高层是请的外国人。
 
