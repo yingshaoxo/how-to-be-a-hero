@@ -1,2 +1,0 @@
-# Doo Group/Fin Points
-
