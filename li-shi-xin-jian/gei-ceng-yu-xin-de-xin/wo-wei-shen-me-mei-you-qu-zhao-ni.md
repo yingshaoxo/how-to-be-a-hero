@@ -44,7 +44,7 @@ Send scheduled for Tue, Dec 1, 5:55 PM
 
 对了，这是没剪头发之前的样子(还不算丑，因为之前做的发型)：
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (3).png>)
 
 
 

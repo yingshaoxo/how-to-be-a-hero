@@ -180,7 +180,7 @@ Ray Dalio 甚至还认识 Dalai Lama，这你相信吗？我反正信了。
 
 ### 工作几个月，认识我半年
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ### 工作一年半，认识我一年半
 
