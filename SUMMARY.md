@@ -20,6 +20,8 @@
     * [夏双喜](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/xia-shuang-xi.md)
   * [Doo Group/Fin Points (伪装成外国公司的跨国诈骗组织)](ren-wu-fen-xi/doo-group-fin-points/README.md)
     * [Johnny KhongWJ](ren-wu-fen-xi/doo-group-fin-points/johnny-khongwj.md)
+  * [Anonymous Army](ren-wu-fen-xi/anonymous-army/README.md)
+    * [Y](ren-wu-fen-xi/anonymous-army/y.md)
   * [【总规则】](ren-wu-fen-xi/zong-gui-ze.md)
   * [胡英杰](ren-wu-fen-xi/hu-ying-jie.md)
   * [童年](ren-wu-fen-xi/tong-nian/README.md)
