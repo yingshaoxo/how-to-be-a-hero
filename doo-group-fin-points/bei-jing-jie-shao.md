@@ -34,6 +34,8 @@ Fin Points 是 Doo Group 的下属公司。
 
 里面有网警协调员，因为数字时代，能监控一个人的动向，这本身能赋予组织很大的能量。
 
+All those people live here in a happy way.
+
 
 
 当然，最核心的部门，还是和人聊天的那些人。这些人，从哪儿来的呢？
