@@ -21,3 +21,9 @@ And your imagination is very important, think it carefully, you don't want to br
 ## Soft is not that bad
 
 Communication in equal solves a lot of problems.
+
+## It's good to take notes
+
+It helps the knowledge learning.
+
+It helps to solide the contract if it involves a lot of values.
