@@ -54,6 +54,8 @@ Fin Points 是 Doo Group 的下属公司。
 
 贤美 的 “母亲”。更希望她能嫁给超级富豪。以换取对应的资源。
 
+But everything is possible. We don't do things in one way.
+
 ### Round 5
 
 我还在这个公司。只是因为他们爱护我。看我找不到工作，所以收留我。
