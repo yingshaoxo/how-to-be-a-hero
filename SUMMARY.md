@@ -12,6 +12,7 @@
 * [Doo Group/Fin Points（伪装成外国公司的跨国诈骗组织）](doo-group-fin-points/README.md)
   * [背景介绍](doo-group-fin-points/bei-jing-jie-shao.md)
   * [进一步深究](doo-groupfin-points-wei-zhuang-cheng-wai-guo-gong-si-de-kua-guo-zha-pian-zu-zhi/jin-yi-bu-shen-jiu.md)
+* [Virtual World Traveling for good](virtual-world-traveling-for-good.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [华港咨询有限公司](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/README.md)
     * [申贤美](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/shen-xian-mei.md)
