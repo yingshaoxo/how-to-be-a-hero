@@ -14,6 +14,8 @@ I stay in here, they leave. So thise experiment can last for awhile for human to
 
 That's why they also combined the tech of VR+AR to make a virtual world so that they could put me into it for the traning.
 
+The traning is all about how to be a good president for china and other countrys.
+
 ## Be positive is the key
 
 When you think positively, you can really live in a positive env. Where people are nice.
