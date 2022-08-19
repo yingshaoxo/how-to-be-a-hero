@@ -12,9 +12,7 @@ They wanted to make sure that I have the ability to adopt the real world situati
 
 I stay in here, they leave. So thise experiment can last for awhile for human to papare something while this experiment can be done. Because we don't know what would happen after this experiment.
 
-That's why they also combined the tech of VR+AR to make a virtual world so that they could put me into it for the traning.
-
-The traning is all about how to be a good AI president for china and other countrys.
+~~That's why they also combined the tech of VR+AR to make a virtual world so that they could put me into it for the traning.~~
 
 ## Be positive is the key
 
