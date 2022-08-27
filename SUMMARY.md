@@ -16,6 +16,7 @@
   * [Chater 1: They use human brain to train AI models](virtual-world-traveling-for-good/chater-1-they-use-human-brain-to-train-ai-models.md)
   * [Chater2: We do good things for living](virtual-world-traveling-for-good/chater2-we-do-good-things-for-living.md)
   * [Chapter3: Africa dev](virtual-world-traveling-for-good/chapter3-africa-dev.md)
+  * [Chapter4: I got super power](virtual-world-traveling-for-good/chapter4-i-got-super-power.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [华港咨询有限公司](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/README.md)
     * [申贤美](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/shen-xian-mei.md)
