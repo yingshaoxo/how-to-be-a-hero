@@ -18,6 +18,7 @@
   * [Chapter3: Africa dev](virtual-world-traveling-for-good/chapter3-africa-dev.md)
   * [Chapter4: I got super power](virtual-world-traveling-for-good/chapter4-i-got-super-power.md)
   * [Chapter5: I don't know](virtual-world-traveling-for-good/chapter5-i-dont-know.md)
+  * [Chapter6: keep going](virtual-world-traveling-for-good/chapter6-keep-going.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [华港咨询有限公司](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/README.md)
     * [申贤美](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/shen-xian-mei.md)
