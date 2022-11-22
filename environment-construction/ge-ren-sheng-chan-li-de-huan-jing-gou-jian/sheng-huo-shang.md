@@ -1,6 +1,6 @@
 # 生活上
 
-## 1. 独立的房间
+## 1. 独立的房间(a quiet house
 
 一定要有个不受人打扰的地方。
 
@@ -33,3 +33,7 @@
 ## 4. 大的，长方形、带波浪的乳胶枕头
 
 没它你的颈椎可能会出问题，降低工作效率
+
+## 5. Alcohol Clean Paper
+
+You could use it to clear some dust.
