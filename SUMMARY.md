@@ -121,7 +121,7 @@
   * [人生第一次参加工作](za-wen-ji/ren-sheng-di-yi-ci-shi-xi.md)
   * [由綦江生活、三江站改、标准化建设、工长的优秀领导管理方式，所引发的经验总结和心得体会](za-wen-ji/you-qi-jiang-sheng-huo-san-jiang-zhan-gai-biao-zhun-hua-jian-she-gong-chang-de-you-xiu-ling-dao-guan.md)
   * [我与小曾](za-wen-ji/wo-yu-xiao-ceng.md)
-* [家居环境构建指南](environment-construction/README.md)
+* [家居环境构建指南(House environment building guide](environment-construction/README.md)
   * [个人生产力的环境构建](environment-construction/ge-ren-sheng-chan-li-de-huan-jing-gou-jian/README.md)
     * [软件上](environment-construction/ge-ren-sheng-chan-li-de-huan-jing-gou-jian/ruan-jian-shang.md)
     * [硬件上](environment-construction/ge-ren-sheng-chan-li-de-huan-jing-gou-jian/ying-jian-shang.md)
