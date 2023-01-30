@@ -138,3 +138,5 @@
   * [碎片自传6: 初中3，进不完的办公室](hui-yi-lu/sui-pian-zi-chuan-6-chu-zhong-3-jin-bu-wan-de-ban-gong-shi.md)
   * [碎片自传7: 初中4，活动](hui-yi-lu/sui-pian-zi-chuan-7-chu-zhong-4-huo-dong.md)
   * [碎片自传8: 从初中到高中，I need to do something](hui-yi-lu/sui-pian-zi-chuan-8-cong-chu-zhong-dao-gao-zhongineed-to-do-something.md)
+* [yingshaoxo的化学研究手册](yingshaoxo-de-hua-xue-yan-jiu-shou-ce/README.md)
+  * [杀虫杀菌](yingshaoxo-de-hua-xue-yan-jiu-shou-ce/sha-chong-sha-jun.md)
