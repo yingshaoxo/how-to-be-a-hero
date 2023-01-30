@@ -140,3 +140,4 @@
   * [碎片自传8: 从初中到高中，I need to do something](hui-yi-lu/sui-pian-zi-chuan-8-cong-chu-zhong-dao-gao-zhongineed-to-do-something.md)
 * [yingshaoxo的化学研究手册](yingshaoxo-de-hua-xue-yan-jiu-shou-ce/README.md)
   * [杀虫杀菌](yingshaoxo-de-hua-xue-yan-jiu-shou-ce/sha-chong-sha-jun.md)
+  * [美白](yingshaoxo-de-hua-xue-yan-jiu-shou-ce/mei-bai.md)
