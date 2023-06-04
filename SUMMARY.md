@@ -62,6 +62,7 @@
   * [Yingshaoxo](li-shi-xin-jian/yingshaoxo/README.md)
     * [Hi, my future](li-shi-xin-jian/yingshaoxo/hi-my-future.md)
     * [A letter from August 10th, 2018](li-shi-xin-jian/yingshaoxo/a-letter-from-august-10th-2018.md)
+    * [A letter from September 28th, 2019](li-shi-xin-jian/yingshaoxo/a-letter-from-september-28th-2019.md)
   * [夏晶](li-shi-xin-jian/xia-jing/README.md)
     * [一封表白信](li-shi-xin-jian/xia-jing/a-stupid-email.md)
     * [一封感谢信(未发送)](li-shi-xin-jian/xia-jing/yi-feng-gan-xie-xin.md)
