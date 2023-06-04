@@ -59,6 +59,8 @@
     * [曾科浩](ren-wu-fen-xi/zhong-qing-dian-wu-duan/ceng-ke-hao.md)
     * [路宗儒](ren-wu-fen-xi/zhong-qing-dian-wu-duan/lu-zong-ru.md)
 * [历史信件](li-shi-xin-jian/README.md)
+  * [Yingshaoxo](li-shi-xin-jian/yingshaoxo/README.md)
+    * [Hi, my future](li-shi-xin-jian/yingshaoxo/hi-my-future.md)
   * [夏晶](li-shi-xin-jian/xia-jing/README.md)
     * [一封表白信](li-shi-xin-jian/xia-jing/a-stupid-email.md)
     * [一封感谢信(未发送)](li-shi-xin-jian/xia-jing/yi-feng-gan-xie-xin.md)
