@@ -162,29 +162,29 @@ Ray Dalio 甚至还认识 Dalai Lama，这你相信吗？我反正信了。
 
 ### 在校
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="original">
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
-![](<../../.gitbook/assets/image (17).png>)
+![](../../.gitbook/assets/image.png)
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 ### 参加工作，刚认识我
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 ### 工作几个月，认识我半年
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### 工作一年半，认识我一年半
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 > 2022.7.24, in telegram:
 >

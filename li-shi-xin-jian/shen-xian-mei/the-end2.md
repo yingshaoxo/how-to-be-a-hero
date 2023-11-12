@@ -28,7 +28,7 @@
 
 举个例子：
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (17).png>)
 
 又或者：
 

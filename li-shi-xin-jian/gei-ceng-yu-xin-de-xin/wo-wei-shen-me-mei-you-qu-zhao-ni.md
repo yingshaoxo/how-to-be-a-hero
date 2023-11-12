@@ -24,15 +24,15 @@ Send scheduled for Tue, Dec 1, 5:55 PM
 
 这是剪完后的样子：
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (8).png>)
+
+![](<../../.gitbook/assets/image (5).png>)
 
 ![](<../../.gitbook/assets/image (15).png>)
-
-![](<../../.gitbook/assets/image (18).png>)
 
 
 
@@ -44,13 +44,13 @@ Send scheduled for Tue, Dec 1, 5:55 PM
 
 对了，这是没剪头发之前的样子(还不算丑，因为之前做的发型)：
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 
 
 这是没剃胡子的样子:
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 
 

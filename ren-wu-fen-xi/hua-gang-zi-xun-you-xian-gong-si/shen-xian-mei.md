@@ -13,13 +13,13 @@ ID: 222401199708191247
 
 > 她的父母，于我来说，是敌是友，暂时还不清楚。她的父母可能还是希望她能嫁个有钱人。
 
+![](<../../.gitbook/assets/image (12).png>)
+
+![She just love the drinking as I do.](<../../.gitbook/assets/image (9).png>)
+
 ![](<../../.gitbook/assets/image (13).png>)
 
-![She just love the drinking as I do.](<../../.gitbook/assets/image (6).png>)
-
-![](<../../.gitbook/assets/image (11).png>)
-
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 从后两张图片，你也许能看到，贤美身上一直有透明胶带。我指手臂。我真不清楚那是什么。
 

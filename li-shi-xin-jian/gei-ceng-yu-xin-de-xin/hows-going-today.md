@@ -14,7 +14,7 @@ Send scheduled for Fri, Nov 27, 1:58 PM
 
 对了，今天我交了一个新朋友：
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 
 
