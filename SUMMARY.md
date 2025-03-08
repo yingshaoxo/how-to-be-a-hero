@@ -25,6 +25,7 @@
 * [流浪的CEO(Chief Executive Officer)](liu-lang-de-ceochief-executive-officer.md)
 * [“家里蹲”产生的感悟](jia-li-dun-chan-sheng-de-gan-wu.md)
 * [“青城山监狱”，虚拟一切](qing-cheng-shan-jian-yu-xu-ni-yi-qie.md)
+* [禁欲的6个月](a_6_month_training.md)
 * [人物分析手册](ren-wu-fen-xi/README.md)
   * [华港咨询有限公司](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/README.md)
     * [申贤美](ren-wu-fen-xi/hua-gang-zi-xun-you-xian-gong-si/shen-xian-mei.md)
