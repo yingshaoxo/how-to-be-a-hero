@@ -27,3 +27,7 @@ ID: 222401199708191247
 
 是整形手术需要贴这个吗？比如隆胸？我不清楚。
 
+## Webchat History
+
+![](../../.gitbook/assets/chat_history_with_shen_xian_mei_2025_collected.jpg)
+
